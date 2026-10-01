@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Filipino Catechism//All Saints Festival 2026//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:all-saints-parade-2026@filipino-catechism.local
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:All Saints Day Parade 2026
+LOCATION:Parish Grounds\, Our Lady of the Rosary Parish\, Doha\, Qatar
+DESCRIPTION:Filipino Catechism. Army of Saints\, Defender of Faith.\nArrival
+  time and final program are awaiting confirmation. Ask your teacher.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
