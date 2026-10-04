@@ -2,4 +2,4 @@
 :HL["/_next/static/css/b449aad2f015d8f3.css","style"]
 :HL["/images/parish-logo.png","image"]
 :HL["/images/catechism-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"classes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"7-d","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5JYEQvQ_DftlkErtYOqWl"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"classes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"7-d","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"H5Na-gY4EIWn5hXzF5Kf6"}
