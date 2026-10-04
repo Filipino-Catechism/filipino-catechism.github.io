@@ -1,4 +1,4 @@
 :HL["/_next/static/css/e9252acee5920a87.css","style"]
 :HL["/_next/static/css/e1de8314f9e325df.css","style"]
 :HL["/images/catechism-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"parade","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"SBbokZi9Voekk2GDV5gE3"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"parade","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"lm023SogakSsvfzP2aXjH"}
