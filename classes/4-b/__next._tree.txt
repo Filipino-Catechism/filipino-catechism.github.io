@@ -1,3 +1,5 @@
 :HL["/_next/static/css/e9252acee5920a87.css","style"]
-:HL["/_next/static/css/e77425994db89c11.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"classes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"4-b","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"xJ-1I2I0jaaeOVf_LLjf6"}
+:HL["/_next/static/css/b449aad2f015d8f3.css","style"]
+:HL["/images/parish-logo.png","image"]
+:HL["/images/catechism-logo.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"classes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"4-b","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5JYEQvQ_DftlkErtYOqWl"}
