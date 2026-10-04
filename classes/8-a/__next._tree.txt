@@ -1,4 +1,4 @@
 :HL["/_next/static/css/e9252acee5920a87.css","style"]
-:HL["/_next/static/css/a327745f9386f16f.css","style"]
+:HL["/_next/static/css/08870ebe94645145.css","style"]
 :HL["/images/catechism-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"classes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"8-a","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"mlfiMJp_Bdf8a_QklVjFd"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"classes","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"8-a","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"3cUddt1CqoMBSFDx0Ccd3"}
